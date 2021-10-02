@@ -1,26 +1,25 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  <!-- <SingletonHeader /> -->
+  <h1 class="text-5xl font-bold sm:text-7xl md:text-8xl lg:text-9xl"
+    >Where have I been?</h1
+  >
+  <!-- <TravelStats title="Visited:" /> -->
+  <CountryForm />
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+// import { v4 as uuidv4 } from 'uuid'
+// import countries from '@/assets/countries.json'
+// import SingletonHeader from '@/components/singletons/SingletonHeader.vue'
+// import TravelStats from '@/components/TravelStats.vue'
+import CountryForm from '@/components/CountryForm.vue'
 
 export default {
-  name: "App",
+  name: 'App',
   components: {
-    HelloWorld,
+    // SingletonHeader,
+    // TravelStats,
+    CountryForm,
   },
-};
-</script>
-
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }
-</style>
+</script>
