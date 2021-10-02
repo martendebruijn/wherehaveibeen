@@ -8,7 +8,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "autoprefixer": "^9.8.7",
     "core-js": "^3.6.5",
+    "postcss": "^7.0.38",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.16",
+    "uuid": "^8.3.2",
     "vue": "^3.0.0"
   },
   "devDependencies": {
@@ -17,12 +21,26 @@
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
     "@vue/eslint-config-prettier": "^6.0.0",
+    "axe-core": "^4.3.3",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
+    "eslint": ">=7.11.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-vue": "^7.0.0",
+    "eslint-plugin-vuejs-accessibility": "^0.7.1",
     "prettier": "^2.2.1",
     "sass": "^1.26.5",
-    "sass-loader": "^8.0.2"
+    "sass-loader": "^8.0.2",
+    "standard": "^16.0.3",
+    "stylelint": "^13.13.1",
+    "stylelint-config-css-modules": "^2.2.0",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-recess-order": "^2.5.0",
+    "stylelint-config-standard": "^22.0.0",
+    "stylelint-scss": "^3.21.0",
+    "vue-axe": "^3.1.2"
   }
 }
