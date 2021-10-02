@@ -1,0 +1,1442 @@
+[
+  {
+    "flag": "🇦🇫",
+    "name": "Afghanistan",
+    "dutch-name": "Afghanistan",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇦🇽",
+    "name": "Aland Islands",
+    "dutch-name": "Aland-eilanden",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇦🇱",
+    "name": "Albania",
+    "dutch-name": "Albanië",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇩🇿",
+    "name": "Algeria",
+    "dutch-name": "Algerije",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇦🇸",
+    "name": "American Samoa",
+    "dutch-name": "Amerikaans Samoa",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇦🇩",
+    "name": "Andorra",
+    "dutch-name": "Andorra",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇦🇴",
+    "name": "Angola",
+    "dutch-name": "Angola",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇦🇮",
+    "name": "Anguilla",
+    "dutch-name": "Anguilla",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇦🇶",
+    "name": "Antartica",
+    "dutch-name": "Antarctica",
+    "continent": ["Antartica"]
+  },
+  {
+    "flag": "🇦🇬",
+    "name": "Antigua and Barbuda",
+    "dutch-name": "Antigua en Barbuda",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇦🇷",
+    "name": "Argentina",
+    "dutch-name": "Argentinië",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇦🇲",
+    "name": "Armenia",
+    "dutch-name": "Armenië",
+    "continent": ["Asia", "Europe"]
+  },
+  {
+    "flag": "🇦🇼",
+    "name": "Aruba",
+    "dutch-name": "Aruba",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇦🇺",
+    "name": "Australia",
+    "dutch-name": "Australië",
+    "continent": ["Australia"]
+  },
+  {
+    "flag": "🇦🇿",
+    "name": "Azerbaijan",
+    "dutch-name": "Azerbeidzjan",
+    "continent": ["Asia", "Europe"]
+  },
+  {
+    "flag": "🇧🇸",
+    "name": "Bahamas",
+    "dutch-name": "Bahamas",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇧🇭",
+    "name": "Bahrain",
+    "dutch-name": "Bahrein",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇧🇩",
+    "name": "Bangladesh",
+    "dutch-name": "Bangladesh",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇧🇧",
+    "name": "Barbados",
+    "dutch-name": "Barbados",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇧🇾",
+    "name": "Belarus",
+    "dutch-name": "Wit-Rusland",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇧🇪",
+    "name": "Belgium",
+    "dutch-name": "België",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇧🇿",
+    "name": "Belize",
+    "dutch-name": "Belize",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇧🇯",
+    "name": "Benin",
+    "dutch-name": "Benin",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇧🇲",
+    "name": "Bermuda",
+    "dutch-name": "Bermuda",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇧🇹",
+    "name": "Bhutan",
+    "dutch-name": "Bhutan",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇧🇴",
+    "name": "Bolivia",
+    "dutch-name": "Bolivia",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇧🇶",
+    "name": "Bonaire",
+    "dutch-name": "Bonaire",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇧🇦",
+    "name": "Bosnia and Herzegovina",
+    "dutch-name": "Bosnië-Herzegovina",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇧🇼",
+    "name": "Botswana",
+    "dutch-name": "Botswana",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇧🇷",
+    "name": "Brazil",
+    "dutch-name": "Brazilië",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇮🇴",
+    "name": "British Indian Ocean Territory",
+    "dutch-name": "Brits-Indisch oceaan gebied",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇻🇬",
+    "name": "British Virign Islands",
+    "dutch-name": "Britse Maagdeneilanden",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇧🇳",
+    "name": "Brunei",
+    "dutch-name": "Brunei",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇧🇬",
+    "name": "Bulgaria",
+    "dutch-name": "Bulgarije",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇧🇫",
+    "name": "Burkina Faso",
+    "dutch-name": "Burkina faso",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇧🇮",
+    "name": "Burubdi",
+    "dutch-name": "Burundi",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇰🇭",
+    "name": "Cambodia",
+    "dutch-name": "Cambodja",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇨🇲",
+    "name": "Cameroon",
+    "dutch-name": "Kameroon",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇨🇦",
+    "name": "Canada",
+    "dutch-name": "Canada",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇨🇻",
+    "name": "Cape Verde",
+    "dutch-name": "Kaapverdië",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇰🇾",
+    "name": "Cayman Islands",
+    "dutch-name": "Kaaiman Eilanden",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇨🇫",
+    "name": "Central African Republic",
+    "dutch-name": "Centraal Afrikaanse Republiek",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇹🇩",
+    "name": "Chad",
+    "dutch-name": "Tsjaad",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇨🇱",
+    "name": "Chile",
+    "dutch-name": "Chili",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇨🇳",
+    "name": "China",
+    "dutch-name": "China",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇨🇨",
+    "name": "Cocos and Christmas Island",
+    "dutch-name": "Cocos en kersteiland",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇨🇴",
+    "name": "Colombia",
+    "dutch-name": "Colombia",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇰🇲",
+    "name": "Comoros",
+    "dutch-name": "Comoren",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇨🇬",
+    "name": "Congo",
+    "dutch-name": "Congo",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇨🇰",
+    "name": "Cook Islands",
+    "dutch-name": "Kook eilanden",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇨🇷",
+    "name": "Costa Rica",
+    "dutch-name": "Costa Rica",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇭🇷",
+    "name": "Croatia",
+    "dutch-name": "Kroatië",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇨🇺",
+    "name": "Cuba",
+    "dutch-name": "Cuba",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇨🇼",
+    "name": "Curacao",
+    "dutch-name": "Curacao",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇨🇾",
+    "name": "Cyprus",
+    "dutch-name": "Cyprus",
+    "continent": ["Asia", "Europe"]
+  },
+  {
+    "flag": "🇨🇿",
+    "name": "Czech Republic",
+    "dutch-name": "Tsjechië",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇨🇩",
+    "name": "Democratic Republic of Congo",
+    "dutch-name": "Democratische Republiek Congo",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇩🇰",
+    "name": "Denmark",
+    "dutch-name": "Denemarken",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇩🇯",
+    "name": "Djibouti",
+    "dutch-name": "Djibouti",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇩🇲",
+    "name": "Dominica",
+    "dutch-name": "Dominica",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇩🇴",
+    "name": "Dominican Republic",
+    "dutch-name": "Dominicaanse Republiek",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇹🇱",
+    "name": "East Timor",
+    "dutch-name": "Oost Timor",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇪🇨",
+    "name": "Ecuador",
+    "dutch-name": "Ecuador",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇪🇬",
+    "name": "Egypt",
+    "dutch-name": "Egypte",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇸🇻",
+    "name": "El Salvador",
+    "dutch-name": "El Salvador",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇬🇶",
+    "name": "Equatorial Guinea",
+    "dutch-name": "Equatoriaal-Guinea",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇪🇷",
+    "name": "Eritrea",
+    "dutch-name": "Eritrea",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇪🇪",
+    "name": "Estonia",
+    "dutch-name": "Estland",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇪🇹",
+    "name": "Ethiopia",
+    "dutch-name": "Ethiopië",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇫🇰",
+    "name": "Falkland Islands",
+    "dutch-name": "Falkland Eilanden",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇫🇴",
+    "name": "Faroe Islands",
+    "dutch-name": "Faerische eilanden",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇫🇯",
+    "name": "Fiji",
+    "dutch-name": "Fiji",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇫🇮",
+    "name": "Finland",
+    "dutch-name": "Finland",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇫🇷",
+    "name": "France",
+    "dutch-name": "Frankrijk",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇬🇫",
+    "name": "French Guiana",
+    "dutch-name": "Frans-Guyana",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇵🇫",
+    "name": "French Polynesia",
+    "dutch-name": "Frans-Polynesië",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇹🇫",
+    "name": "French Southern and Antarctic Lands",
+    "dutch-name": "Franse zuidelijke en Antarctische landen",
+    "continent": ["Antartica"]
+  },
+  {
+    "flag": "🇬🇦",
+    "name": "Gabon",
+    "dutch-name": "Gabon",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇬🇲",
+    "name": "Gambia",
+    "dutch-name": "Gambia",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇬🇪",
+    "name": "Georgia",
+    "dutch-name": "Georgië",
+    "continent": ["Asia", "Europe"]
+  },
+  {
+    "flag": "🇩🇪",
+    "name": "Germany",
+    "dutch-name": "Duitsland",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇬🇭",
+    "name": "Ghana",
+    "dutch-name": "Ghana",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇬🇩",
+    "name": "Grenada",
+    "dutch-name": "Grenada",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇬🇷",
+    "name": "Greece",
+    "dutch-name": "Griekenland",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇬🇱",
+    "name": "Greenland",
+    "dutch-name": "Groenland",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇬🇵",
+    "name": "Guadelupe",
+    "dutch-name": "Guadelupe",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇬🇺",
+    "name": "Guam",
+    "dutch-name": "Guam",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇬🇹",
+    "name": "Guatemala",
+    "dutch-name": "Guatemala",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇬🇬",
+    "name": "Guernsey",
+    "dutch-name": "Guernsey",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇬🇳",
+    "name": "Guinea",
+    "dutch-name": "Guinea",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇬🇾",
+    "name": "Guyana",
+    "dutch-name": "Guyana",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇭🇹",
+    "name": "Haiti",
+    "dutch-name": "Haïti",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇭🇳",
+    "name": "Honduras",
+    "dutch-name": "Honduras",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇭🇰",
+    "name": "Hong Kong",
+    "dutch-name": "Hong Kong",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇭🇺",
+    "name": "Hungary",
+    "dutch-name": "Hongarije",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇮🇸",
+    "name": "Iceland",
+    "dutch-name": "IJsland",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇮🇳",
+    "name": "India",
+    "dutch-name": "India",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇮🇩",
+    "name": "Indonesia",
+    "dutch-name": "Indonesië",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇮🇷",
+    "name": "Iran",
+    "dutch-name": "Iran",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇮🇶",
+    "name": "Iraq",
+    "dutch-name": "Irak",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇮🇪",
+    "name": "Ireland",
+    "dutch-name": "Ierland",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇮🇲",
+    "name": "Isle of Man",
+    "dutch-name": "Eiland van de mens",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇮🇱",
+    "name": "Israel",
+    "dutch-name": "Israël",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇮🇹",
+    "name": "Italy",
+    "dutch-name": "Italië",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇨🇮",
+    "name": "Ivory Coast",
+    "dutch-name": "Ivoorkust",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇯🇲",
+    "name": "Jamaica",
+    "dutch-name": "Jamaica",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇯🇵",
+    "name": "Japan",
+    "dutch-name": "Japan",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇯🇪",
+    "name": "Jersey",
+    "dutch-name": "Jersey",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇯🇴",
+    "name": "Jordan",
+    "dutch-name": "Jordanië",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇰🇪",
+    "name": "Kenya",
+    "dutch-name": "Kenia",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇰🇿",
+    "name": "Khazakstan",
+    "dutch-name": "Khazakstan",
+    "continent": ["Asia", "Europe"]
+  },
+  {
+    "flag": "🇰🇮",
+    "name": "Kiribati",
+    "dutch-name": "Kiribati",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇽🇰",
+    "name": "Kosovo",
+    "dutch-name": "Kosovo",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇰🇬",
+    "name": "Kyrgyzstan",
+    "dutch-name": "Kirgizië",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇰🇼",
+    "name": "Kuwait",
+    "dutch-name": "Koeweit",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇱🇦",
+    "name": "Laos",
+    "dutch-name": "Laos",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇱🇻",
+    "name": "Latvia",
+    "dutch-name": "Letland",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇱🇧",
+    "name": "Lebanon",
+    "dutch-name": "Libanon",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇱🇸",
+    "name": "Lesotho",
+    "dutch-name": "Lesotho",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇱🇷",
+    "name": "Liberia",
+    "dutch-name": "Liberia",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇱🇾",
+    "name": "Libya",
+    "dutch-name": "Libië",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇱🇮",
+    "name": "Liechtenstein",
+    "dutch-name": "Liechtenstein",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇱🇹",
+    "name": "Lithuania",
+    "dutch-name": "Litouwen",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇱🇺",
+    "name": "Luxembourg",
+    "dutch-name": "Luxemburg",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇲🇴",
+    "name": "Macao",
+    "dutch-name": "Macao",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇲🇰",
+    "name": "Macedonia",
+    "dutch-name": "Macedonië",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇲🇬",
+    "name": "Madagascar",
+    "dutch-name": "Madagascar",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇲🇼",
+    "name": "Malawi",
+    "dutch-name": "Malawi",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇲🇾",
+    "name": "Malaysia",
+    "dutch-name": "Maleisië",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇲🇻",
+    "name": "Maldives",
+    "dutch-name": "Maldiven",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇲🇱",
+    "name": "Mali",
+    "dutch-name": "Mali",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇲🇹",
+    "name": "Malta",
+    "dutch-name": "Malta",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇲🇭",
+    "name": "Marshall Islands",
+    "dutch-name": "Marshall eilanden",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇲🇶",
+    "name": "Martinique",
+    "dutch-name": "Martinique",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇲🇷",
+    "name": "Mauritania",
+    "dutch-name": "Mauritanië",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇲🇺",
+    "name": "Mauritius",
+    "dutch-name": "Mauritius",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇾🇹",
+    "name": "Mayotte",
+    "dutch-name": "Mayotte",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇲🇽",
+    "name": "Mexico",
+    "dutch-name": "Mexico",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇫🇲",
+    "name": "Micronesia",
+    "dutch-name": "Micronesië",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇲🇩",
+    "name": "Moldova",
+    "dutch-name": "Moldavië",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇲🇨",
+    "name": "Monaco",
+    "dutch-name": "Monaco",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇲🇳",
+    "name": "Mongolia",
+    "dutch-name": "Mongolië",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇲🇪",
+    "name": "Montenegro",
+    "dutch-name": "Montenegro",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇲🇸",
+    "name": "Montserrat",
+    "dutch-name": "Montserrat",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇲🇦",
+    "name": "Morocco",
+    "dutch-name": "Marokko",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇲🇿",
+    "name": "Mozambique",
+    "dutch-name": "Mozambique",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇲🇲",
+    "name": "Myanmar",
+    "dutch-name": "Myanmar",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇳🇦",
+    "name": "Namibia",
+    "dutch-name": "Namibië",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇳🇷",
+    "name": "Nauru",
+    "dutch-name": "Nauru",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇳🇵",
+    "name": "Nepal",
+    "dutch-name": "Nepal",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇳🇱",
+    "name": "Netherlands",
+    "dutch-name": "Nederland",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇳🇨",
+    "name": "New Caledonia",
+    "dutch-name": "Nieuw-Caledonië",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇳🇿",
+    "name": "New Zealand",
+    "dutch-name": "Nieuw-Zeeland",
+    "continent": ["Australia"]
+  },
+  {
+    "flag": "🇳🇮",
+    "name": "Nicaragua",
+    "dutch-name": "Nicaragua",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇳🇪",
+    "name": "Niger",
+    "dutch-name": "Niger",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇳🇬",
+    "name": "Nigeria",
+    "dutch-name": "Nigeria",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇳🇺",
+    "name": "Niue",
+    "dutch-name": "Niue",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇳🇫",
+    "name": "Norfolk Island",
+    "dutch-name": "Norfolk Island",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇰🇵",
+    "name": "North Korea",
+    "dutch-name": "Noord Korea",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇲🇵",
+    "name": "Nortthern Mariana Islands",
+    "dutch-name": "Nortthern Mariana-eilanden",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇳🇴",
+    "name": "Norway",
+    "dutch-name": "Noorwegen",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇴🇲",
+    "name": "Oman",
+    "dutch-name": "Oman",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇵🇰",
+    "name": "Pakistan",
+    "dutch-name": "Pakistan",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇵🇸",
+    "name": "Palestine",
+    "dutch-name": "Palestina",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇵🇼",
+    "name": "Palau",
+    "dutch-name": "Palau",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇵🇦",
+    "name": "Panama",
+    "dutch-name": "Panama",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇵🇬",
+    "name": "Papua New Guinea",
+    "dutch-name": "Papoea-Nieuw-Guinea",
+    "continent": ["Australia"]
+  },
+  {
+    "flag": "🇵🇾",
+    "name": "Paraguay",
+    "dutch-name": "Paraguay",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇵🇪",
+    "name": "Peru",
+    "dutch-name": "Peru",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇵🇭",
+    "name": "Phillipines",
+    "dutch-name": "Phillipines",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇵🇳",
+    "name": "Pitcairn Islands",
+    "dutch-name": "Pitcairn Islands",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇵🇱",
+    "name": "Poland",
+    "dutch-name": "Polen",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇵🇹",
+    "name": "Portugal",
+    "dutch-name": "Portugal",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇵🇷",
+    "name": "Puerto Rico",
+    "dutch-name": "Puerto Rico",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇶🇦",
+    "name": "Qatar",
+    "dutch-name": "Qatar",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇷🇪",
+    "name": "Reunion",
+    "dutch-name": "Bijeenkomst",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇷🇴",
+    "name": "Romania",
+    "dutch-name": "Roemenië",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇷🇺",
+    "name": "Russia",
+    "dutch-name": "Rusland",
+    "continent": ["Asia", "Europe"]
+  },
+  {
+    "flag": "🇷🇼",
+    "name": "Rwanda",
+    "dutch-name": "Rwanda",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇼🇸",
+    "name": "Samoa",
+    "dutch-name": "Samoa",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇸🇲",
+    "name": "San Marino",
+    "dutch-name": "San Marino",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇸🇹",
+    "name": "São Tomé and Príncipe",
+    "dutch-name": "São Tomé en Príncipe",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇸🇳",
+    "name": "Senegal",
+    "dutch-name": "Senegal",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇷🇸",
+    "name": "Serbia",
+    "dutch-name": "Servië",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇸🇨",
+    "name": "Seychelles",
+    "dutch-name": "Seychellen",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇸🇱",
+    "name": "Sierra Leone",
+    "dutch-name": "Sierra Leone",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇸🇬",
+    "name": "Singapore",
+    "dutch-name": "Singapore",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇸🇰",
+    "name": "Slovakia",
+    "dutch-name": "Slowakije",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇸🇮",
+    "name": "Slovenia",
+    "dutch-name": "Slovenië",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇸🇧",
+    "name": "Solomon Islands",
+    "dutch-name": "Solomon eilanden",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇸🇴",
+    "name": "Somalia",
+    "dutch-name": "Somalië",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇿🇦",
+    "name": "South Africa",
+    "dutch-name": "Zuid-Afrika",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇬🇸",
+    "name": "South Georgia and the Sandwich Islands",
+    "dutch-name": "Zuid-Georgië en de sandwichilanden",
+    "continent": ["Antartica"]
+  },
+  {
+    "flag": "🇰🇷",
+    "name": "South Korea",
+    "dutch-name": "Zuid-Korea",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇸🇸",
+    "name": "South Sudan",
+    "dutch-name": "Zuid Soedan",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇪🇸",
+    "name": "Spain",
+    "dutch-name": "Spanje",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇱🇰",
+    "name": "Sri Lanka",
+    "dutch-name": "Sri Lanka",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇧🇱",
+    "name": "Saint Barthelemy",
+    "dutch-name": "Sint-Bartholomeus",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇸🇭",
+    "name": "Saint Helena",
+    "dutch-name": "Heilige Helena",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇰🇳",
+    "name": "Saint Kitts and Nevis",
+    "dutch-name": "Saint Kitts en Nevis",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇱🇨",
+    "name": "Saint Lucia",
+    "dutch-name": "Saint Lucia",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇸🇽",
+    "name": "Saint Maarten",
+    "dutch-name": "Sint Maarten",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇲🇶",
+    "name": "Saint Martin",
+    "dutch-name": "Sint-Maarten",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇵🇲",
+    "name": "Saint Pierre and Miquelon",
+    "dutch-name": "Saint Pierre en Miquelon",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇻🇨",
+    "name": "Saint Vincent and the Grendaines",
+    "dutch-name": "Saint Vincent en de grendaines",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇸🇦",
+    "name": "Saudi Arabia",
+    "dutch-name": "Saoedi-Arabië",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇸🇸",
+    "name": "Sudan",
+    "dutch-name": "Soedan",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇸🇩",
+    "name": "Suriname",
+    "dutch-name": "Suriname",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇸🇿",
+    "name": "Swaziland",
+    "dutch-name": "Swaziland",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇸🇪",
+    "name": "Sweden",
+    "dutch-name": "Zweden",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇨🇭",
+    "name": "Switzerland",
+    "dutch-name": "Zwitserland",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇸🇾",
+    "name": "Syria",
+    "dutch-name": "Syrië",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇹🇼",
+    "name": "Taiwan",
+    "dutch-name": "Taiwan",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇹🇯",
+    "name": "Tajikistan",
+    "dutch-name": "Tadzjikistan",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇹🇿",
+    "name": "Tanzania",
+    "dutch-name": "Tanzania",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇹🇭",
+    "name": "Thailand",
+    "dutch-name": "Thailand",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇹🇬",
+    "name": "Togo",
+    "dutch-name": "Gaan",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇹🇴",
+    "name": "Tonga",
+    "dutch-name": "Tonga",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇹🇹",
+    "name": "Trinidad and Tobago",
+    "dutch-name": "Trinidad en Tobago",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇹🇳",
+    "name": "Tunisia",
+    "dutch-name": "Tunesië",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇹🇷",
+    "name": "Turkey",
+    "dutch-name": "kalkoen",
+    "continent": ["Asia", "Europe"]
+  },
+  {
+    "flag": "🇹🇲",
+    "name": "Turkmenistan",
+    "dutch-name": "Turkmenistan",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇹🇨",
+    "name": "Turks and Calcos",
+    "dutch-name": "Turken en Calcos",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇻🇮",
+    "name": "United States Virgin Islands",
+    "dutch-name": "Verenigde Staten Maagdeneilanden",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇺🇬",
+    "name": "Uganda",
+    "dutch-name": "Oeganda",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇺🇦",
+    "name": "Ukraine",
+    "dutch-name": "Oekraïne",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇦🇪",
+    "name": "United Arab Emirates",
+    "dutch-name": "Verenigde Arabische Emiraten",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇬🇧",
+    "name": "United Kingdom",
+    "dutch-name": "Verenigd Koninkrijk",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇺🇸",
+    "name": "United States of America",
+    "dutch-name": "Verenigde Staten van Amerika",
+    "continent": ["northAmerica"]
+  },
+  {
+    "flag": "🇺🇾",
+    "name": "Uruguay",
+    "dutch-name": "Uruguay",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇺🇿",
+    "name": "Uzbekistan",
+    "dutch-name": "Oezbekistan",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇻🇺",
+    "name": "Vanuatu",
+    "dutch-name": "Vanuatu",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇻🇦",
+    "name": "Vatican City",
+    "dutch-name": "Vaticaanstad",
+    "continent": ["Europe"]
+  },
+  {
+    "flag": "🇻🇪",
+    "name": "Venezuela",
+    "dutch-name": "Venezuela",
+    "continent": ["SouthAmerica"]
+  },
+  {
+    "flag": "🇻🇳",
+    "name": "Vietnam",
+    "dutch-name": "Vietnam",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇼🇫",
+    "name": "Wallis and Fortuna",
+    "dutch-name": "Wallis en Fortuna",
+    "continent": ["Oceania"]
+  },
+  {
+    "flag": "🇪🇭",
+    "name": "Western Sahara",
+    "dutch-name": "Westelijke Sahara",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇾🇪",
+    "name": "Yemen",
+    "dutch-name": "Jemen",
+    "continent": ["Asia"]
+  },
+  {
+    "flag": "🇿🇲",
+    "name": "Zambia",
+    "dutch-name": "Zambia",
+    "continent": ["Africa"]
+  },
+  {
+    "flag": "🇿🇼",
+    "name": "Zimbabwe",
+    "dutch-name": "Zimbabwe",
+    "continent": ["Africa"]
+  }
+]
