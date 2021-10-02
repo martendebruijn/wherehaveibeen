@@ -120,36 +120,45 @@
       </div>
     </div>
     <!-- filter container -->
-    <div class="py-5">
-      <label :for="searchUUID" class="sr-only">Zoeken</label>
-      <input
-        :id="searchUUID"
-        v-model="searchInput"
-        type="search"
-        class="w-full px-4 py-1 border border-gray-300 rounded-md"
-        placeholder="Zoeken..."
-      />
-    </div>
-    <!-- search-wrapper -->
-    <ul class="flex flex-wrap gap-4">
-      <li
-        v-for="country in filterByInput"
-        :key="country.name"
-        class="flex items-center gap-2 px-2 py-1 bg-gray-100 rounded-md"
-      >
+    <router-link to="result">adsjnsad</router-link>
+    <form>
+      <div class="py-5">
+        <label :for="searchUUID" class="sr-only">Zoeken</label>
         <input
-          :id="country.name"
-          type="checkbox"
-          :name="country.name"
-          :value="country.name"
-          @change="handleClick($event.target)"
+          :id="searchUUID"
+          v-model="searchInput"
+          type="search"
+          class="w-full px-4 py-1 border border-gray-300 rounded-md"
+          placeholder="Zoeken..."
         />
-        <label :for="country.name" class="flex gap-2 whitespace-nowrap">
-          <CountryFlag :name="country.name" :flag="country.flag" />
-          <span :id="`${country.name}Label`">{{ country.name }}</span>
-        </label>
-      </li>
-    </ul>
+      </div>
+      <!-- search-wrapper -->
+      <ul class="flex flex-wrap gap-4">
+        <li
+          v-for="country in filterByInput"
+          :key="country.name"
+          class="flex items-center gap-2 px-2 py-1 bg-gray-100 rounded-md"
+        >
+          <input
+            :id="country.name"
+            type="checkbox"
+            :name="country.name"
+            :value="country.name"
+            @change="handleClick($event.target)"
+          />
+          <label :for="country.name" class="flex gap-2 whitespace-nowrap">
+            <CountryFlag :name="country.name" :flag="country.flag" />
+            <span :id="`${country.name}Label`">{{ country.name }}</span>
+          </label>
+        </li>
+      </ul>
+      <input
+        type="submit"
+        value="Calculate..."
+        class="mb-16"
+        @click.stop.prevent="submit"
+      />
+    </form>
   </div>
 </template>
 
@@ -159,7 +168,6 @@ import countries from '@/assets/countries.json'
 import CountryFlag from '@/components/CountryFlag.vue'
 
 export default {
-  // http://localhost:8080/?Yemen=Yemen#
   name: 'CountryForm',
   components: { CountryFlag },
   data() {
@@ -250,6 +258,10 @@ export default {
         (selectedCountry) => selectedCountry.name === country
       )
       selected.splice(index, 1)
+    },
+    submit() {
+      const params = this.selected.map((country) => country.name)
+      this.$router.push(`/result?visited=${params.join('%2b')}`)
     },
   },
 }
